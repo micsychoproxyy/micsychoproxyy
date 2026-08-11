@@ -1,4 +1,4 @@
-<div align="center">
+hi<div align="center">
 
 MICSYCHO PROXYY
 
@@ -71,7 +71,7 @@ Principles
 
 Connect
 
-• GitHub: micsycho_proxyy
+• GitHub: micsychoproxyy
 • Organization: ProxyVerse Technology
 • Business inquiries: proxyverse.tech@gmail.com
 
