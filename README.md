@@ -66,9 +66,10 @@ ProxyVerse is a long-term technology ecosystem where independent projects are de
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=micsychoproxyy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=00F0FF" alt="Micsycho Proxyy's GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micsychoproxyy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=micsychoproxyy&show_icons=true&theme=tokyonight&hide_border=true" alt="Micsycho Proxyy's GitHub Stats" />
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=micsychoproxyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
+</div>
 </div>
 
 
