@@ -1,4 +1,4 @@
-hi<div align="center">
+<div align="center">
 
 MICSYCHO PROXYY
 
