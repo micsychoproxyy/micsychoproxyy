@@ -71,6 +71,9 @@ ProxyVerse is a long-term technology ecosystem where independent projects are de
 
 </div>
 
+
+</div>
+
 ---
 
 ## 📬 Connect
