@@ -1,8 +1,7 @@
 # Hi there 👋
 
 I am **Micsycho Proxyy**. Founder & Independent Technology Builder.
-
-I am an independent builder behind **ProxyVerse Technology**—focused on cybersecurity, artificial intelligence, automation, and digital intelligence systems.
+I am an independent builder behind **ProxyVerse Technology** focused on cybersecurity, artificial intelligence, automation, and digital intelligence systems.
 
 ⚙️ Language and Tools
 
