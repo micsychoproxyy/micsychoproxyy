@@ -14,7 +14,7 @@
 
 ## 👁️ About
 
-I am an independent technology builder from Indonesia and the founder of **ProxyVerse Technology**—an evolving ecosystem shaped around cybersecurity, artificial intelligence, automation, and digital intelligence.
+I am an independent technology builder from Indonesia and the founder of **ProxyVerse Technology** an evolving ecosystem shaped around cybersecurity, artificial intelligence, automation, and digital intelligence.
 
 I turn ambitious ideas into real products, building quietly behind the screen while keeping the vision focused on what comes next.
 
@@ -24,7 +24,7 @@ I turn ambitious ideas into real products, building quietly behind the screen wh
 
 ## ⚡ ProxyVerse Technology
 
-ProxyVerse is a long-term technology ecosystem where independent projects are developed under one vision: creating intelligent, secure, and meaningful digital systems.
+ProxyVerse is a long term technology ecosystem where independent projects are developed under one vision: creating intelligent, secure, and meaningful digital systems.
 
 <details open>
 <summary><b>📂 Core Ecosystem Projects (Click to expand)</b></summary>
