@@ -20,7 +20,7 @@ I am an independent builder behind **ProxyVerse Technology** focused on cybersec
 Experienced in Web Development, Cybersecurity Tools, and AI Integration.  
 Also interested in Robotics, Mechatronics, and Autonomous Systems.
 
-:octocat: Open Source
+:octocat: Private Project
 
 ProxyVerse Technology — *Building quietly. Thinking beyond.*
 
