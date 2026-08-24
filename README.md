@@ -3,9 +3,7 @@
 I am **Micsycho Proxyy**. 
 Founder & Independent Technology Builder behind ProxyVerse Technology.
 
-⚙️ Languages and Tools
 ## ⚙️ Languages & Tools
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
