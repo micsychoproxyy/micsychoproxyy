@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I am **Micsycho Proxyy**. Founder & Independent Technology Builder.
-I am an independent builder behind **ProxyVerse Technology** focused on cybersecurity, artificial intelligence, automation, and digital intelligence systems.
+I am **Micsycho Proxyy**. 
+Founder & Independent Technology Builder behind ProxyVerse Technology.
 
 ⚙️ Language and Tools
 
@@ -17,10 +17,10 @@ I am an independent builder behind **ProxyVerse Technology** focused on cybersec
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Experienced in Web Development, Cybersecurity Tools, and AI Integration.  
+Building across cybersecurity, AI, automation, and intractive systems.
 Also interested in Robotics, Mechatronics, and Autonomous Systems.
 
-:octocat: Private Project.
+:octocat: Private Development.
 Most of my projects are currently developed privately under ProxyVerse Technology.
 
 ProxyVerse Technology — *Building quietly. Thinking beyond.*
