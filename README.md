@@ -16,7 +16,7 @@ Founder & Independent Technology Builder behind ProxyVerse Technology.
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Building across cybersecurity, AI, automation, and intractive systems.
+Building Cybersecurity, AI, Automation, and Interactive Systems.
 Also interested in Robotics, Mechatronics, and Autonomous Systems.
 
 :octocat: Private Development.
