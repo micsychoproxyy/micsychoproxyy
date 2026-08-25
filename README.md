@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I am **Micsycho Proxyy**. 
+
 Founder & Independent Technology Builder behind ProxyVerse Technology.
 
 ## ⚙️ Languages & Tools
@@ -17,6 +18,7 @@ Founder & Independent Technology Builder behind ProxyVerse Technology.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Building Cybersecurity, AI, Automation, and Interactive Systems.
+
 Also interested in Robotics, Mechatronics, and Autonomous Systems.
 
 :octocat: Private Development.
