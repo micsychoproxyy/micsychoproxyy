@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I am **Micsycho Proxyy**. 
-Founder & Independent Technology Builder behind ProxyVerse Technology.
+Founder & Independent Technology Builder behind ProxyVerse Technology & Micsycho Technology.
 
 ## ⚙️ Languages & Tools
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
