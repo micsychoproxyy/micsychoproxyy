@@ -2,6 +2,7 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=EF4444&center=true&vCenter=true&width=900&height=55&lines=AI+Systems+%7C+Cybersecurity+Engineering;Software+Architecture+%7C+Autonomous+Agents;Building+the+Future+Through+Intelligence.)
 
+
 # Micsycho Proxyy
 
 **Founder — Micsycho Technology**
@@ -16,6 +17,15 @@ My work combines independent research, systems engineering, technical experiment
 
 ---
 
+## Professional Overview
+
+- **Founder** — Micsycho Technology  
+- **Private R&D Initiative** — ProxyVerse Technology  
+- **Primary Focus** — AI Systems, Cybersecurity Engineering, Autonomous Architectures  
+- **Research Interests** — Robotics, Mechatronics, Human–AI Interaction, Intelligent Automation  
+- **Engineering Approach** — Security, Modularity, Evidence-Based Validation, Responsible Autonomy  
+
+
 ## Engineering Expertise
 
 | Domain | Focus |
@@ -29,25 +39,23 @@ My work combines independent research, systems engineering, technical experiment
 
 ## Technology Stack
 
-**Core Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Languages & Core Development
+<img src="https://skillicons.dev/icons?i=python,rust,ts,cpp,js&theme=dark" />
 
-**Application Engineering**
+### Application & System Engineering
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,electron,tauri&theme=dark" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Infrastructure & Tooling
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,git,github,vscode,bash&theme=dark" />
 
-**Infrastructure & Development**
+### AI / Research Environment
+<img src="https://skillicons.dev/icons?i=pytorch,ubuntu,cloudflare&theme=dark" />
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
+
+---
+
 
 ## Selected Engineering Projects
 
@@ -122,7 +130,9 @@ Technical documentation, selected research findings, and demonstrations may be s
 
 [![GitHub](https://img.shields.io/badge/GitHub-micsychoproxyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/micsychoproxyy)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proxyverse.tech@gmail.com)
-
+<a href="https://micsychotech.com">
+    <img src="https://img.shields.io/badge/Website-Micsycho%20Technology-991B1B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  
 Open to technical discussions and meaningful collaborations in AI engineering, cybersecurity research, and software architecture.
 
 ---
@@ -132,3 +142,5 @@ Open to technical discussions and meaningful collaborations in AI engineering, c
 *Building the Future Through Intelligence.*
 
 ![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:09090B&height=120&section=footer)
+
+
