@@ -57,36 +57,6 @@ My work combines independent research, systems engineering, technical experiment
 ---
 
 
-## Selected Engineering Projects
-
-### ALTRON — Autonomous AI Systems
-
-**Private R&D | AI Agent Architecture**
-
-An independent engineering initiative exploring secure and modular autonomous AI systems.
-
-**Development focus:**
-- Local and hybrid AI inference
-- Agent orchestration and planning
-- Tool integration and execution control
-- Context and memory management
-- Authorization and audit mechanisms
-- Controlled autonomous workflows
-
-### REZONIX — Cybersecurity Engineering
-
-**Active Development | Security Validation**
-
-An independent defensive cybersecurity platform focused on security monitoring, threat analysis, and operational visibility.
-
-**Development focus:**
-- Security Information and Event Management
-- Network security and threat detection
-- Security telemetry and event correlation
-- Threat intelligence and incident investigation
-- Digital forensics
-- Security automation and auditability
-
 ## Engineering Philosophy
 
 **Security by Design**
